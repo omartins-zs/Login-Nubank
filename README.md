@@ -2,7 +2,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="Bateria" title="" src="./assets/img/Loading_Js.gif" />
+    <img alt="Bateria" title="" src="./assets/img/Login-nubank.png" />
 </h1>
 
 <h4 align="center"> 
